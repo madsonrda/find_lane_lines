@@ -44,7 +44,7 @@ My pipeline consisted of 6 steps:
 
 6. Finally, I overlaid the original image with the output of step 5 (hough transformation)
 
-<img src="test_images_output/lines-solidWhiteCurve.jpg" width="480" />
+<img src="test_images_output/solidWhiteCurve.jpg" width="480" />
 
 
 ### 2. Identify potential shortcomings with your current pipeline
